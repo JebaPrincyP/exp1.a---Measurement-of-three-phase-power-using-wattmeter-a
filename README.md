@@ -1,4 +1,4 @@
-<img width="1137" height="540" alt="image" src="https://github.com/user-attachments/assets/884cf6bd-d289-401d-a6c0-8537010d466b" />Aim :
+Aim :
 Three phase power measurement by two wattmeter method.
 
 Procedure
